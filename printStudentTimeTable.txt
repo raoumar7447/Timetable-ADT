@@ -1,0 +1,26 @@
+				Student Timetable function 				
+Theory of Automata (CS-A) : 
+Monday 9:30 am : 11:00 am , CE-2 || Wednesday - 9:30 am : 11:00 am , CE-2
+Computer Networks (CS-B) : 
+Tuesday 8:00 am : 9:30 am , CS-2 || Thursday - 8:00 am : 9:30 am , CS-2
+Operating Systems (CS-E) : 
+Tuesday 12:30 pm : 2:00 pm , CS-4 || Thursday - 12:30 pm : 2:00 pm , CS-4
+Philosophy (CS) : 
+Tuesday 3:30 pm : 5:00 pm , CS-4 || Thursday - 3:30 pm : 5:00 pm , CS-4
+Human Computer Interaction (CS-D) : 
+Tuesday 2:00 pm : 3:30 pm , CS-10 || Thursday - 2:00 pm : 3:30 pm , CS-10
+Operating Systems Lab (CS-E1&CS-E2) : 
+Friday - 8:00 am : 11:00 am , Lab(CS-9)
+				Student Timetable function 				
+Theory of Automata (CS-A) : 
+Monday 9:30 am : 11:00 am , CE-2 || Wednesday - 9:30 am : 11:00 am , CE-2
+Computer Networks (CS-B) : 
+Tuesday 8:00 am : 9:30 am , CS-2 || Thursday - 8:00 am : 9:30 am , CS-2
+Operating Systems (CS-E) : 
+Tuesday 12:30 pm : 2:00 pm , CS-4 || Thursday - 12:30 pm : 2:00 pm , CS-4
+Philosophy (CS) : 
+Tuesday 3:30 pm : 5:00 pm , CS-4 || Thursday - 3:30 pm : 5:00 pm , CS-4
+Human Computer Interaction (CS-D) : 
+Tuesday 2:00 pm : 3:30 pm , CS-10 || Thursday - 2:00 pm : 3:30 pm , CS-10
+Operating Systems Lab (CS-E1&CS-E2) : 
+Friday - 8:00 am : 11:00 am , Lab(CS-9)

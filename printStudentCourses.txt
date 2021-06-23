@@ -1,0 +1,7 @@
+				Student Courses function 				
+Theory of Automata (CS-A)
+Computer Networks (CS-B)
+Operating Systems (CS-E)
+Philosophy (CS)
+Human Computer Interaction (CS-D)
+Operating Systems Lab (CS-E1&CS-E2)
