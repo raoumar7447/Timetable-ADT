@@ -1,4 +1,4 @@
-Create a timetable ADT called TTADT that holds time table.The ADT has a load function that loads an CSV file containing a time table. The name of the file is given as input. The format of time table is the same used by the FAST NUCES CS dept.Before using the time table i removed extra stuff from it manually such as "Reserved for Fast School of Management (FSM)" etc.
+Create a timetable ADT called TTADT in C++ that holds time table.The ADT has a load function that loads an CSV file containing a time table. The name of the file is given as input. The format of time table is the same used by the FAST NUCES CS dept.Before using the time table i removed extra stuff from it manually such as "Reserved for Fast School of Management (FSM)" etc.
 Assumptions about timetable: There are 5 working days. There can be at max 28 parallel sessions each day/ time slot instead of 25. There will be 8 1.5 hr slots per day starting from 8:00 AM. Some slots can be combined such as in the case of lab sessions.
 So we have the time table and the list of students registered in each section.
 Functionality I have implemented in this:
